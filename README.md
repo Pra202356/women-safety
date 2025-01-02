@@ -121,7 +121,7 @@
       </div>
     </div>
   
-  </section>
+  
 
 
 
@@ -270,7 +270,7 @@
             </a>
         </div>
     </div>  
-  </section>
+  
 
     
   
@@ -278,5 +278,3 @@
 
   </main>
 
-</body>
-</html>
