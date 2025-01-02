@@ -1,13 +1,19 @@
 /* Reset default styles */
 * {
+    
     margin: 0;
     padding: 0;
+    width:100%;
+    height:100%;
     box-sizing: border-box;
   }
   img:hover {
     opacity: 0.5;
   }
   body {
+
+    width:100%;
+    height:100%;
     font-family: Arial, sans-serif;
     background-color: #f8f9fa;
     color: #e9d7d7;
@@ -44,7 +50,7 @@ nav ul li a:hover {
 
   /* Hero Section */
   .hero {
-    background-image: url("images\background.jpg");/* Replace with your background image */
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtCtJaexKWVH9FRd5WRFutjsWTayJLivOJ5Q&s");/* Replace with your background image */
     background-size: cover;
     background-position: center;
     color: #f1ebeb;
