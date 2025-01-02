@@ -49,7 +49,7 @@ nav ul li a:hover {
 
   /* Hero Section */
   .hero {
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtCtJaexKWVH9FRd5WRFutjsWTayJLivOJ5Q&s");/* Replace with your background image */
+    background-image: url("");/* Replace with your background image */
     background-size: cover;
     background-position: center;
     color: #f1ebeb;
